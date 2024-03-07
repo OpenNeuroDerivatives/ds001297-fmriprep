@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001297-fmriprep/sourcedata/raw/sub-19/anat/sub-19_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001297-fmriprep/sourcedata/raw/sub-19/anat/sub-19_acq-filt_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
